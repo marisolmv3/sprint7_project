@@ -1,4 +1,4 @@
-# Sprint7_Project 🧑🏽‍💻
+# Sprint 7 - Project 🧑🏽‍💻
 Proyecto de Sprint 7 Triple Ten
 
 
